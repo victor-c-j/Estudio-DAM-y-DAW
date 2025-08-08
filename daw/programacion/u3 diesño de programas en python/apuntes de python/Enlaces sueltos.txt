@@ -1,0 +1,5 @@
+Introduccion a diccionarios en python --> https://ellibrodepython.com/diccionarios-en-python 
+
+INtroduccion a python --> https://aulasoftwarelibre.github.io/taller-de-python/
+
+Ejercicios resuletos interactivos -->  https://aprendeconalf.es/docencia/python/ejercicios/

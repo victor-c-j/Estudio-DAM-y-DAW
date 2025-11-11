@@ -1,4 +1,4 @@
-package com.example;
+package com.example.tema1;
 
 public class bucle_bandera {
     public static void main(String[] args) {
